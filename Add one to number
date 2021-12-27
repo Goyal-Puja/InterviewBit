@@ -1,4 +1,9 @@
+Input : [1, 2, 3]
+Output : [1, 2, 4]
+Explanation :
 
+Given vector is [1, 2, 3].
+The returned vector should be [1, 2, 4] as 123 + 1 = 124.
 
     vector<int> Solution::plusOne(vector<int> &A) 
     {
